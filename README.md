@@ -1,5 +1,5 @@
 # encode  
-dApp vor delegated voting
+Angular dApp vor delegated voting
 
 # frontend  
 
