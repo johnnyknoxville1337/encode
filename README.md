@@ -1,5 +1,5 @@
 # encode  
-dApp vor delegetaed voting
+dApp vor delegated voting
 
 # frontend  
 
